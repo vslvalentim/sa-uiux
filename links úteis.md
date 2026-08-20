@@ -6,4 +6,4 @@ https://canva.link/1b08k4h9gscb05e - tela principal
 
 https://canva.link/zsy6u2dv2j7wni0 - tela de solicitar livros.
 
-FEITO POR: VICTOR S, ARTHUR SCHWARTZ E JOÃO DENILSON.
+FEITO POR: VICTOR S. L. VALENTIM, ARTHUR SCHWARTZ E JOÃO DENILSON.
