@@ -8,6 +8,6 @@ https://canva.link/zsy6u2dv2j7wni0 - tela de solicitar livros.
 
 https://docs.google.com/forms/d/e/1FAIpQLSePCtppWI0eslgxGrxs9H6BZ7LM4SrFj7AfCDqA5jo48fdJBQ/viewform?usp=dialog - formulário da SA.
 
-
+https://canva.link/f5kmyrn48r9swqi - link da apresentação contendo o mapa de navegabilidade na página 11.
 
 FEITO POR: Victor S. L. Valentim, Arthur Schwartz, João Denilson, Ramon Junior e Gustavo Gutszaki
